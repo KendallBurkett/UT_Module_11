@@ -51,8 +51,9 @@ The project uses Python, pandas, and visualization tools to perform analysis and
 ## Installation
 
 1. **Prerequisites**:
-   - Python 3.x
-   - Jupyter Notebook
+     - Python 3.7+
+     - Google Chrome (ensure it is up-to-date)
+     - ChromeDriver (managed automatically)
 
 2. **Setup**:
    - Clone this repository or download the project files.
