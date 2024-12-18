@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Author](#author)
 
 ---
 
@@ -75,10 +74,3 @@ The project uses Python, pandas, and visualization tools to perform analysis and
   - Identified temperature trends on Mars, including seasonal variations.
   - Visualizations highlight daily temperature changes and other weather patterns.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
