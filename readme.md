@@ -1,6 +1,5 @@
 ## Web Scraping/Data Analysis
 ---
-
 # Mars News and Weather Data Analysis
 
 ## Table of Contents
