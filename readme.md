@@ -16,8 +16,10 @@
 ## Description
 
 This project analyzes **Mars news** and **weather data** to explore trends and patterns. It includes two primary components:
-1. **Part 1: Mars News** - Scrapes the latest news from a Mars-related website for headlines and summaries.
-2. **Part 2: Mars Weather** - Analyzes temperature data from the surface of Mars and generates visualizations to reveal insights.
+1. **Part 1: Mars News** 
+  - Scrapes the latest news from a Mars-related website for headlines and summaries.
+2. **Part 2: Mars Weather** 
+  - Analyzes temperature data from the surface of Mars and generates visualizations to reveal insights.
 
 The project uses Python, pandas, and visualization tools to perform analysis and process the provided datasets.
 
@@ -51,8 +53,8 @@ The project uses Python, pandas, and visualization tools to perform analysis and
 ## Installation
 
 1. **Prerequisites**:
-- Python 3.x
-- Jupyter Notebook
+   - Python 3.x
+   - Jupyter Notebook
 
 2. **Setup**:
    - Clone this repository or download the project files.
@@ -68,10 +70,10 @@ The project uses Python, pandas, and visualization tools to perform analysis and
 ### Key Observations:
 
 1.	Mars News:
-- Recent headlines provide updates on Mars missions, discoveries, and insights.
+  - Recent headlines provide updates on Mars missions, discoveries, and insights.
 2.	Mars Weather:
-- Identified temperature trends on Mars, including seasonal variations.
-- Visualizations highlight daily temperature changes and other weather patterns.
+  - Identified temperature trends on Mars, including seasonal variations.
+  - Visualizations highlight daily temperature changes and other weather patterns.
 ---
 
 ## Author
